@@ -24,3 +24,5 @@ choco install nodejs.install /y
 choco install poshgit /y
 choco install vscode /y
 choco install conemu /y
+choco install beyondcompare /y
+

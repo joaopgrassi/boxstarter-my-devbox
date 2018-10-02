@@ -4,6 +4,7 @@ choco install foxitreader /y
 choco install ditto /y
 choco install ditto.install /y
 choco install greenshot /y
+choco install screentogif /y
 choco install notepadplusplus /y
 choco install notepadplusplus.install /y
 choco install docker /y
@@ -25,4 +26,3 @@ choco install poshgit /y
 choco install vscode /y
 choco install conemu /y
 choco install p4merge /y
-

@@ -2,15 +2,12 @@ choco install 7zip /y
 choco install git /y
 choco install git-credential-manager-for-windows /y
 choco install foxitreader /y
-choco install ditto /y
+choco install copyq /y
 choco install greenshot /y
 choco install screentogif /y
 choco install notepadplusplus /y
 choco install docker /y
 choco install docker-for-windows /y
-choco install DotNet4.5 /y
-choco install DotNet4.5.2 /y
-choco install DotNet4.6.1 /y
 choco install FiraCode /y
 choco install Firefox /y
 choco install handle /y
@@ -18,10 +15,15 @@ choco install ilspy /y
 choco install MarkdownMonster /y
 choco install nodejs /y
 choco install nodejs.install /y
+choco install yarn /y
 choco install poshgit /y
 choco install vscode /y
-choco install conemu /y
+choco install microsoft-windows-terminal
 choco install p4merge /y
 choco install cygwin /y
 choco install git-fork /y
 choco install tortoisegit /y
+choco install spotify /y
+choco install signal /y
+choco install dotnetcore-sdk /y
+choco install dotnet /y
